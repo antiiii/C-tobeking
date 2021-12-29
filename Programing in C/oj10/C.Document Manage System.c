@@ -2,5 +2,5 @@
 
 int main ()
 {
-    printf("love");
+    printf("first github");
 }
